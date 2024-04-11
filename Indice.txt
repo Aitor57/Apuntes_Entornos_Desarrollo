@@ -1,4 +1,6 @@
 - Capitulo 0: Introducción a entornos de desarrollo.
+		- 0.1: Que es entornos de desarrollo
+		- 0.2: Introduccion
 - Capitulo 1: Repositorios de Código
 - Capitulo 2: UML
 - Capitulo 3: Gestión de Ramas
