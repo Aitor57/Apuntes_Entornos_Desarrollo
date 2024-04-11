@@ -2,5 +2,7 @@
 		- 0.1: Que es entornos de desarrollo
 		- 0.2: Introduccion
 - Capitulo 1: Repositorios de Código
+		- 1.1 Que es un repositorio
+		- 1.2 Como se hace un repositorio
 - Capitulo 2: UML
 - Capitulo 3: Gestión de Ramas
